@@ -1,0 +1,9 @@
+.profile-pic {
+    max-height: 500px;
+}
+
+/*TEXT SPACING --UNITS IN REMS!!--*/
+
+.ts {
+    letter-spacing: 1.5rem;
+}
